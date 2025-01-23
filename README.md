@@ -15,6 +15,9 @@ To get started with this project, follow these steps:
    git clone https://github.com/ekundayoSO/my-first-react-native-app.git
    cd my-first-react-native-app
    ```
+2. Install expo go to your device
+   - Android: 
+   <img src="/myFirstApp/assets/images/Android-QR-Code.png">
 2. Install dependencies:
    ```bash
    npm install
