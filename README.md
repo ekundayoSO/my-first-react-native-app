@@ -16,13 +16,18 @@ To get started with this project, follow these steps:
    cd my-first-react-native-app
    ```
 2. Install expo go to your device
-   - Android: 
-   <img src="/myFirstApp/Android-QR-Code.png">
-2. Install dependencies:
+
+   Android: 
+   ![QR Code](./assets/images/Android-QR-Code.png)
+
+   IOS:
+   ![QR Code](./assets/images/IOS-QR-Code.png) 
+
+3. Install dependencies:
    ```bash
    npm install
    ````
-3. Start server:
+4. Start server:
    ```bash
    npx expo start
    ```
