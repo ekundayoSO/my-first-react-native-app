@@ -17,7 +17,7 @@ To get started with this project, follow these steps:
    ```
 2. Install expo go to your device
    - Android: 
-   <img src="/myFirstApp/assets/images/Android-QR-Code.png">
+   <img src="/myFirstApp/Android-QR-Code.png">
 2. Install dependencies:
    ```bash
    npm install
