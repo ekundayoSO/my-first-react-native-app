@@ -17,10 +17,10 @@ To get started with this project, follow these steps:
    ```
 2. Install expo go to your device
 
-   Android: 
+   - Android:
    ![QR Code](./assets/images/Android-QR-Code.png)
 
-   IOS:
+   - IOS:
    ![QR Code](./assets/images/IOS-QR-Code.png) 
 
 3. Install dependencies:
