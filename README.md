@@ -16,13 +16,13 @@ To get started with this project, follow these steps:
    cd my-first-react-native-app
    ```
 2. Install expo go to your device
-
+   ```
    # Android:
    ![QR Code](./assets/images/Android-QR-Code.png)
 
    # IOS:
    ![QR Code](./assets/images/IOS-QR-Code.png) 
-
+   ````
 3. Install dependencies:
    ```bash
    npm install
